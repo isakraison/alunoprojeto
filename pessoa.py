@@ -16,6 +16,7 @@ class Pessoa(SerVivo):
     def andar(self,destino):
         print("f{self.nome}está andando até{destino}")
 
+
     def comer(self,comida):
         print("f{self.nome}está comendo{comida}")
 
