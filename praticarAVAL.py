@@ -21,6 +21,7 @@ def aluno():
     if sala ==4:
         print('você é de administração')
         turno=input('digite qual seu turno:')
+
         serie=input('digite qual sua serie::')
         print('você é um aluno em atividade!\ndigite suas notas a seguir e veja se passou de ano')
         
@@ -85,4 +86,5 @@ def secretaria():
 
 
 aluno()
+
 secretaria()
