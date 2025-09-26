@@ -29,10 +29,10 @@ class Pessoa(SerVivo):
     p1.andar()
     p1.comer()
 
-p1.respirar()
-p1.dormir()
- p1.falar()
- p1.andar()
+    p1.respirar()
+    p1.dormir()
+    p1.falar()
+    p1.andar()
     p1.comer()
 
     
