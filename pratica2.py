@@ -19,5 +19,3 @@ def cadastro():
 
 cadastro()
 
-git config --global user.email "isakraison@gmail.com"
-git config --global user.name "isac hayson"
